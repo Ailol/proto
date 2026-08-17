@@ -1,3 +1,9 @@
+# The general idea is to compact history, keep the best, respect the rest for when days are tuff.
+<div.> many faiths · roots kept · pollen gathered · rubics alive · lucrative today.
+<dev> rubixx to rubics feel.
+ 
+ 
+ 
  If we ain't here, we dead, me, gp(ti', 5.6 sol model), claude and deep and midjourney(grokk somewhere ;) ) 
 
 ## proto
