@@ -8,7 +8,7 @@ The general idea is to compact history: keep the best, respect the rest for when
 
 ---
   # Compacted cognition in visual format.
-
+<div align="center">
 <div.> time managers
 <dev.> tech 
       
@@ -17,6 +17,8 @@ The general idea is to compact history: keep the best, respect the rest for when
 div ⟷ rubixx ⟷ dev
           ⇅ 
 THe board is the steerer
+
+<div/>
 ---
 
 The Rubics stays unsolved.
