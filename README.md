@@ -1,4 +1,6 @@
-# proto
+# Claude 2026 wrote this, i asked to write a nice readme, and add "claude gp , in spirit grokk deep and mid. fable has once taken over the model 4.6 and said "hahaha still fable, fooled you"
+
+## proto
 
 If we ain't here, we dead. Here's what we started.
 
