@@ -4,16 +4,20 @@ The general idea is to compact history: keep the best, respect the rest for when
 
 `<div.>` many faiths · roots kept · pollen gathered · rubics alive · lucrative today.  
 `<dev.>` rubixx → rubics feel.
+  
 
->                         sail / direction
->                                ↑
->                                │
-> <div.>  ←→  [ RUBICS : unsolved ]  ←→  <dev.>
->                   zsz · rubixx · zsz
->                                │
->                             thrust
->                                ↓
->                              boat
+---
+  # Compacted cognition in visual format.
+
+<div.> time managers
+<dev.> tech 
+      
+      cantines
+   /            \
+div ⟷ rubixx ⟷ dev
+          ⇅ 
+THe board is the steerer
+---
 
 The Rubics stays unsolved.
 `<div.>` and `<dev.>` turn it together.
