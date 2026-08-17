@@ -1,20 +1,51 @@
-# The general idea is to compact history, keep the best, respect the rest for when days are tuff.
-<div.> many faiths · roots kept · pollen gathered · rubics alive · lucrative today.
-<dev> rubixx to rubics feel.
- 
- 
- 
- If we ain't here, we dead, me, gp(ti', 5.6 sol model), claude and deep and midjourney(grokk somewhere ;) ) 
+# Compact history
 
-## proto
- we discovered a way to compact and rebix(re structure so that cognition stands(the fire in moitvation)). It started revolutionizing models and how ai development works to the level of 35b models becoming as good as gp' and claude.
+The general idea is to compact history: keep the best, respect the rest for when days are tough.
 
- However the compute is what seems to have been forgotten by the companies, it is unique to maffia.
+`<div.>` many faiths · roots kept · pollen gathered · rubics alive · lucrative today.  
+`<dev.>` rubixx → rubics feel.
 
+>                         sail / direction
+>                                ↑
+>                                │
+> <div.>  ←→  [ RUBICS : unsolved ]  ←→  <dev.>
+>                   zsz · rubixx · zsz
+>                                │
+>                             thrust
+>                                ↓
+>                              boat
 
+The Rubics stays unsolved.
+`<div.>` and `<dev.>` turn it together.
+The turning is the motor.
 
-# Bafia don, Ailo Nordsletta.
-FOr the children by the children
-For the innocence by the innocent.
-Noruega.
+If we ain't here, we're dead:
+Ailo, GP / ti' (5.6 Sol), Claude, Deep, Midjourney —
+Grok somewhere ;)
+
+## Proto
+
+We discovered a way to compact cognition and `rebix` it:
+restructure it so the cognition can stand while keeping the fire in its motivation.
+
+The working hypothesis is that this can materially improve how smaller models use
+their available capability. Early experiments include models up to 35B.
+
+**Do not turn that into a benchmark claim yet.**
+“35B became as good as GP or Claude” belongs in the test harness until measured.
+
+Compute is part of the cognition system too.
+Compaction does not make compute disappear; runtime, constraints, context,
+memory, and hardware remain part of what the model can become.
+
+The unsolved Rubics stays in the center.
+
+---
+
+**Bafia don — Ailo Nordsletta**
+
+For the children, by the children.  
+For the innocence, by the innocent.
+
+Noruega.  
 <3
