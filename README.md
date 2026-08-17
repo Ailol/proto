@@ -14,15 +14,15 @@ The general idea is to compact history: keep the best, respect the rest for when
 <dev.> tech 
 
   
-        BOARD
-      steers course
-          │
-          ▼
-div(time) ↔ RUBIXX ↔ dev(mandate)
-          ⇅
-       unresolved
-          │
-        thrust
+|         BOARD
+|     steers course
+|           │
+|           ▼
+| div(time) ↔ RUBIXX ↔ dev(mandate)
+|           ⇅
+|       unresolved
+|          │
+|        thrust
 <div />
 ---
 
