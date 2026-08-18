@@ -12,14 +12,6 @@
     display: inline-block;
     padding: 3px;
     border-radius: 34px;
-    background:
-      linear-gradient(
-        135deg,
-        rgba(0,255,255,1.15),
-        rgba(120,70,255,0.15),
-        rgba(255,0,190,1.+0),
-        rgba(255,210,80,1)
-      );
     box-shadow:
       0 0 8px rgba(255,255,255,0.70),
       0 0 18px rgba(0,255,255,0.55),
@@ -29,24 +21,8 @@
     backdrop-filter: blur(18px) saturate(180%);
   "
 >
-  <div
-    style="
-      padding: 7px;
-      border-radius: 31px;
-      background:
-        linear-gradient(
-          145deg,
-          rgba(255,255,255,0.16),
-          rgba(255,255,255,0.035)
-        );
-      border: 1px solid rgba(255,255,255,0.42);
-      box-shadow:
-        inset 0 1px 1px rgba(255,255,255,0.45),
-        inset 0 -1px 10px rgba(0,0,0,0.40);
-    "
-  >
     <img
-      src="./src/The Nordzs/1.png"
+      src="./src/The Nordzs/3.png"
       alt="Munin / Hugin"
       width="620"
       style="
@@ -54,5 +30,5 @@
         display: block;
       "
     />
-  </div>
+
 </div>
