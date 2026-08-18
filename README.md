@@ -3,9 +3,9 @@
 
 The general idea is to compact history: keep the best, respect the rest for when days are tough.
 
-`<div.>` many faiths · roots kept · pollen gathered · rubics alive · lucrative today.  
-`<dev.>` rubixx → rubics feel.
-  
+<div.> makes it legible
+<dev.> makes it dance
+<team.> gives it wind
 
 ---
   # Compacted cognition in visual format.
