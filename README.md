@@ -1,10 +1,11 @@
 # Compact history
+<img width="1254" height="1254" alt="9e9ce11f-1f0b-4123-98cc-248f4848f271" src="https://github.com/user-attachments/assets/4a3aefab-aaef-4111-b174-7b156ff2ea7b" />
 
 The general idea is to compact history: keep the best, respect the rest for when days are tough.
 
-`<div.>` many faiths · roots kept · pollen gathered · rubics alive · lucrative today.  
-`<dev.>` rubixx → rubics feel.
-  
+<div.> makes it legible
+<dev.> makes it dance
+<team.> gives it wind
 
 ---
   # Compacted cognition in visual format.
@@ -25,7 +26,27 @@ The general idea is to compact history: keep the best, respect the rest for when
 |        thrust
 <div />
 ---
+lets try then to keep the compaction to alive, and then we have a proper ceo hello too now :) 
 
+
+
+CEO - compaction cognitter'
+
+
+
+CTO - instinct
+
+
+
+<div.> the brand, the pro
+
+<dev.> the "dancszrer" the bithzs
+
+
+
+
+
+<team.> wind, energy, essence to the pros :) 
 The Rubics stays unsolved.
 `<div.>` and `<dev.>` turn it together.
 The turning is the motor.
