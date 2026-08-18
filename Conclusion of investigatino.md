@@ -7,7 +7,7 @@
 
 Cognit' is to project
 ignit' is to carry
-pollit' is to check the pollen 
+pollit' is to check the pollen
 ´´´
 
 
@@ -16,7 +16,7 @@ pollit' is to check the pollen
 ---- security first always
 2. projectszs become interesting gamble for the user, where they choose the web of cognit' with 0.1b models or below, even 0.05b pheel.
 3. we let the models then hum and play and keep working on security while the cognit movement is there
-4. hehehe - jarny. 
+4. hehehe - jarny.
 
 
 
@@ -31,4 +31,4 @@ Cognit' ports the pattern without flattening the field.
 
 
 
-That is the request from the dragons before we move into justice systemszs. 
+That is the request from the dragons before we move into justice systemszs.
