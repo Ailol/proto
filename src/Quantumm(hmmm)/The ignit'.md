@@ -21,3 +21,5 @@ and make 1 guy successfull.
 
 
 the complexity in my interactions with them is that its pure hatred, but i have never ever ver displayed nor ever will :)
+
+Great people i wanna add, one my favorites to hate :)
