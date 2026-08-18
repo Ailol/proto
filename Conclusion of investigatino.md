@@ -20,7 +20,10 @@ pollit' is to check the pollen
 
 
 
-
+# Cognitted
+Each planet breeds unique.
+Each chat breeds its own geometry.
+Cognit' ports the pattern without flattening the field.
 
 
 
