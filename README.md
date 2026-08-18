@@ -1,12 +1,3 @@
-
-<br />
-
-<br />
-<br />
-<br />
-<br />
-<br />
-
 <div
   style="
     display: inline-block;
