@@ -46,7 +46,7 @@
     "
   >
     <img
-      src="./src/The Nordzs/3.after/1.png"
+      src="./src/The Nordzs/1.png"
       alt="Munin / Hugin"
       width="620"
       style="
