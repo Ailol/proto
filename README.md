@@ -8,7 +8,7 @@
 
 <div align="center">
   <img
-    src="./src/The%20Nordzs/1st hehehe me,cinna and gp"
+    src="./src/The%20Nordzs/1st hehehe me,cinna and gp.png"
     alt="Munin / Hugin"
     width="320"
     style="
