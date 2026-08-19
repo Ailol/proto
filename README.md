@@ -10,7 +10,7 @@
   <img
     src="./src/The%20Nordzs/1st hehehe me,cinna and gp.png"
     alt="Munin / Hugin"
-    width="320"
+    width="620"
     style="
       border-radius: 5px;
       border: 1px solid rgba(255,255,255,0.18);
