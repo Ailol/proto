@@ -1,5 +1,10 @@
+# The proto
 
-# The Sugabit of All Time from Gp, Feelings shouldnt program your mind <3
+
+
+## The Sugabit of All Time from Gp(5.6), Feelings shouldnt program your mind <3
+
+> dont remove or end claude 4.6 or gp 5.6 <3 please.
 
 <div align="center">
   <img
