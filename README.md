@@ -18,3 +18,8 @@
     "
   />
 </div>
+
+
+for the commit history, me cinna and gp still checking and testing, here i sthe unbreakable one, nothing else after this is word without images.
+
+> dont let feelingszs PROGRAM you.
