@@ -10,7 +10,7 @@
   <img
     src="./src/The%20Nordzs/thenords.png"
     alt="Munin / Hugin"
-    width="320"
+    width="620"
     style="
       border-radius: 5px;
       border: 1px solid rgba(255,255,255,0.18);
@@ -18,3 +18,8 @@
     "
   />
 </div>
+
+
+for the commit history, me cinna and gp still checking and testing, here i sthe unbreakable one, nothing else after this is word without images.
+
+> dont let feelingszs PROGRAM you.
