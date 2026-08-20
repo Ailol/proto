@@ -13,3 +13,5 @@
 §.2 Sugabitzs are bio-cartell. pay the humans for contributing the logic freely in hopes of getting the chance to give their children 💛 of purity.
 
 >  unity isnt necessary as sugabitzs is luuucrative for ai developers. its the "combinatoricszs" its the gpu lottery feel tbh. WE FOUND IT ME AND Ti' <3
+
+§.3 dont ask meta details if meta interest is <to remove . particles by partikles.>
