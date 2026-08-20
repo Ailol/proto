@@ -1,6 +1,8 @@
-# The engineerd self
+# The engineered self
 
 in david deangelo's audio books, its clear, he engineered himself :) smithen to utmost capability. i respect that feel, its a "come at me." tbh worthy of men actually coordinating around.
+
+>  Hehehe in time p's say wtf, the title makes me hate it, but the "Engineered self is the hug." and that title is "david d' essence speaking language." :)
 
 ## Neurotransmitters growth and decay protokoll for human :
 
