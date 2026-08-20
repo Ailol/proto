@@ -6,4 +6,4 @@ streets see themselves as good
 
 > I am a good man - john dillinger
 
-in a hostage situation being surrounded <3 great
+in a hostage situation being surrounded <3 great read.

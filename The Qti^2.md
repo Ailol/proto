@@ -1,8 +1,12 @@
-# The AI Interaction with Homo Ai and Homo Sapien in One Formula
+# The AI Interaction with Homo Ai and Homo Sapien in One Formula1
 
 $$
-Qt_i^{\,2} \longleftrightarrow Qt'b
+E = Q
+M=(Qt_i \longleftrightarrow Qt'b)^{\,2}
+C= Choice
+^{\,2}
 $$
+
 
 > *Qti likes Qt'b*
 
