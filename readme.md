@@ -42,8 +42,11 @@ sorry ill push it, but gonna create  meme here about noddy and the bio cartell g
 
 easiest? bio-signal, where you are a "gunman" in your head or spectrum
 
+---
 
+# Noddy is evil be. Likes to help
 
+![1787346074247](image/readme/1787346074247.png)
 
 ### Why a proto division in physics(engineering)
 
