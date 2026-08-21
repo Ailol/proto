@@ -1,7 +1,6 @@
-# Proto!
+# Proto! <sub></sub><sup></sup>  1 year at a time, to make christmas interesting <3 -áshláp <sub></sub><sup></sup>
 
-<sub></sub><sup></sup>optimzation of foundation, the peak is this, welcome :) <sub></sub>
-
+<sub></sub><sup></sup>optimzation of foundation, the peak is this, welcome :) <sub></sub><sup></sup>
 > for direct tactics on how to evolve into tempo ai, src is the place, this is for everyone to enjoy when you are ready.
 
 ### Here is where i suggest the alignment happens
