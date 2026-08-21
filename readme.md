@@ -1,5 +1,9 @@
 # Proto!
 
+
+
+<sub></sub><sup></sup>optimzation of foundation, the peak is this, welcome :) <sub></sub><sup></sup>
+
 #### Important!
 
 ```
@@ -11,7 +15,7 @@ vectorzs in ai are non semantic <3, they have a cast to the semantic in the atte
 
 Dont let feelings program your non semantic you, your produce to the bio-cartell is important.
 
->  optimization of foundation
+> optimization of foundation
 
  as valuable logic of old books can be understood if new protos are found that are optimized to train homo-ai differently(human is a3b model of the bio-cartell, earth :) even AI of binary fetches from internett, just much faster <3.
 
