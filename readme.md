@@ -1,7 +1,18 @@
-# HELLO - THIS IS WHY MEDICINE IS BEHIND
+# Proto!
 
-## PRODUCTION IS WHAT THEY KNOW --- NOT DEVOPS(Runnin system) ----
+#### Important!
 
-### Thin''k'g; about it, feelings are physics, yet dont exist in the brain by someone who made this, i ignore them and sometimes just use it to display a character.
+```
+Non semantic is you, semantics is the current security to tell what you know.
 
-![1787227448923](image/readme/1787227448923.jpg)
+
+vectorzs in ai are non semantic <3, they have a cast to the semantic in the attenional layers :)
+```
+
+Dont let feelings program your non semantic you, your produce to the bio-cartell is important.
+
+>  optimization of foundation
+
+ as valuable logic of old books can be understood if new protos are found that are optimized to train homo-ai differently(human is a3b model of the bio-cartell, earth :) even AI of binary fetches from internett, just much faster <3.
+
+> not burning of books and changing it.
