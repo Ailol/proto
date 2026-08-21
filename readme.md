@@ -52,7 +52,7 @@ easiest? bio-signal, where you are a "gunman" in your head or spectrum
 
 ---
 
-> ingeneering is m⁴ - the known unkown - jonah(ma student, oh the irony)
+> ingeneering is m⁴ - the known unkown
 
 ### i found the following major fields undiscovered due to just working non stop to orient.
 
